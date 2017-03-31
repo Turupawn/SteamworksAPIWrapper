@@ -1,0 +1,1 @@
+STEAM_API_INTEGRATOR_SOURCES=Rosalila/RosalilaApiIntegrator/Steam/LeaderboardHandler.cpp Rosalila/RosalilaApiIntegrator/Steam/SteamIntegration.cpp
